@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faruqbakare
-- 👀 I’m interested in Internship roles for backend development
+- 👀 I’m interested in junior roles for backend development
 - 🌱 I’m currently learning Django development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me; you can reach me on olafaruqbakare@gmail.com
 
 <!---
