@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @faruqbakare
-- 👀 I’m interested in junior roles for backend development
-- 🌱 Django and Node js
+- 👀 I’m interested in junior roles for front end development
+- 🌱 React, Django and Node js
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me; you can reach me on olafaruqbakare@gmail.com
 
